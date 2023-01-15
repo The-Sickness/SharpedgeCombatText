@@ -1,0 +1,17 @@
+## Interface: 100002
+## Title: SharpedgeCombatText
+## Author: Sharpedge_Gaming
+## Version: 1.0
+## DefaultState: Enabled
+## LoadOnDemand: 0
+
+libs\LibStub\LibStub.lua
+libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+libs\AceGUI-3.0\AceGUI-3.0.xml
+
+libs\LibSharedMedia-3.0\lib.xml
+libs\AceConfig-3.0\AceConfig-3.0.xml
+libs\LibSharedMedia-3.0\LibSharedMedia-3.0\LibSharedMedia-3.0.lua
+
+
+Sharpedge.lua
