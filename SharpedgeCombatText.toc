@@ -1,4 +1,4 @@
-## Interface: 100002
+## Interface: 100005
 ## Title: SharpedgeCombatText
 ## Author: Sharpedge_Gaming
 ## Version: 1.0
